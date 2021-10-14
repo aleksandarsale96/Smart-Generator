@@ -1,0 +1,10 @@
+node_modules/
+build/
+
+# editor
+*.swp
+*.swo
+*.swa
+
+# mnemonic secret file
+.secret
